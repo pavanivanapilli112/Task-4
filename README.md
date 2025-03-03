@@ -136,4 +136,4 @@ This project successfully demonstrated the design and simulation of a 3-tap FIR 
 
 
 ### Output: 
-![output]()
+![output](https://github.com/pavanivanapilli112/Task-4/blob/main/IMG-20250303-WA0008.jpg)
